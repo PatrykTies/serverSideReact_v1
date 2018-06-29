@@ -1,0 +1,24 @@
+{
+  "name": "serverSideReact_v1",
+  "version": "1.0.0",
+  "description": "server side react",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next"
+  },
+  "repository": "https://github.com/PatrykTies/serverSideReact_v1.git",
+  "author": "Patryk Ties",
+  "license": "MIT",
+  "dependencies": {
+    "@zeit/next-sass": "^0.2.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "next": "^6.1.1",
+    "node-sass": "^4.9.0",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^8.6.4"
+  }
+}

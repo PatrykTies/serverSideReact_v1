@@ -4,7 +4,8 @@
   "description": "server side react",
   "main": "index.js",
   "scripts": {
-    "dev": "next"
+    "dev": "next",
+    "server": "nodemon server/"
   },
   "repository": "https://github.com/PatrykTies/serverSideReact_v1.git",
   "author": "Patryk Ties",
